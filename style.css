@@ -1,0 +1,309 @@
+body{
+    margin: 0% 0%;
+}
+
+.blue{
+    width: 100%;
+    height: 85px;
+    
+     
+    background-color:#3E5B99;
+    
+
+}
+#face{
+    color: white;
+    font-size: 40px;
+    display: inline;
+    
+    position: absolute;
+    top: 27px;
+    right:190px;
+    
+   
+}
+    
+.LE{
+    display: inline;
+    position: absolute;
+    top: 20px;
+    left:425px;
+        color: white;
+    font-size: 15px;
+
+}
+.TE{
+    display: inline;
+    position: absolute;
+    top: 43px;
+    left:417px;
+}
+.LP{
+    display: inline;
+    position: absolute;
+    top: 20px;
+    left:325px;
+    color: white;
+        font-size: 15px;
+
+}
+.TP{
+    display: inline;
+    position: absolute;
+    top: 43px;
+    left:230px;
+}
+.BEnter{
+  position: absolute;
+    top: 43px;
+    left:120px;  
+    background: #4267B2;
+        color: white;
+   
+    
+
+}
+.BEnter:hover{
+  cursor:pointer;
+}
+.center{
+
+    background-color: rgba(230, 230, 222, 0.69);
+   height: 575px;
+    background-image: url('https://c.top4top.net/p_7548ii3w2.png');
+   
+
+  
+}
+.PAcount1{
+      position: absolute;
+
+    display: inline;
+    top: 100px;
+    left:250px;
+    font-size: 40px;
+     font-family: cursive;
+    color: rgba(0, 0, 0, 0.7);
+    letter-spacing:normal;
+    
+}
+.PAcount2{
+          position: absolute;
+
+     top: 160px;
+    left:405px;
+    font-size: 20px;
+    direction: rtl
+}
+
+
+.t1{
+     position: absolute;
+    left:395px;
+    top:195px;
+    width: 170px;
+    height: 35px;
+   direction:rtl;
+   
+    padding: 0 10px;
+
+
+
+    font-size: 20px;
+    line-height: 3;
+}
+        
+
+.t2{
+     position: absolute;
+    left:180px;
+    top:195px;
+    width: 176px;
+    height: 35px;
+      direction:rtl;
+   
+    padding: 0 10px;
+
+
+
+    font-size: 20px;
+    line-height: 3;
+        
+}
+.t3{
+     position: absolute;
+    left:180px;
+    top:245px;
+    width: 385px;
+    height: 35px;
+      direction:rtl;
+   
+    padding: 0 10px;
+
+
+
+    font-size: 20px;
+    line-height: 3;
+        
+}
+.t4{
+     position: absolute;
+    left:180px;
+    top:295px;
+    width: 385px;
+        height: 35px;
+      direction:rtl;
+   
+    padding: 0 10px;
+
+
+
+    font-size: 20px;
+    line-height: 3;
+        
+}
+.img{
+    
+   position: absolute;
+    
+    left:740px;
+    top:125px; 
+    width: 440px;
+    font-size: 20px;
+    direction:rtl;
+}
+.IMG{
+    position: absolute;
+    
+    left:640px;
+     
+    width: 500px;
+    height: 300px;
+    background-image: url('https://b.top4top.net/p_754a5v3w1.png');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+.remember{
+     display: inline;
+    position: absolute;
+    top: 68px;
+    left:275px;
+    direction: rtl;
+    font-size: 12px;
+    color:#8FB4CC;
+}
+.remember:hover{
+    cursor:pointer;
+}
+.date{
+    display: inline;
+     position: absolute;
+    top: 335px;
+    left:510px;
+    direction: rtl;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.67);
+}
+.S-one{
+     position: absolute;
+    top: 385px;
+    left:540px;
+     direction: rtl;
+font-size: 13px;
+    height: 30px;
+    width: 50px;
+    }
+.S-two{
+     position: absolute;
+    top: 385px;
+    left:463px;
+     direction: rtl;
+font-size: 13px;
+    height: 30px;
+    width:75px;
+    
+    padding: 5px;}
+.S-three{
+     position: absolute;
+    top: 385px;
+    left:386px;
+     direction: rtl;
+font-size: 13px;
+    height: 30px;
+    width:75px;
+    
+    padding: 5px;}
+.tareekh{
+      position: absolute;
+    top: 380px;
+    left:240px;
+     direction: rtl;
+    font-size: 13px;
+    color: rgba(20, 20, 165, 0.69);
+
+}
+.tareekh:hover{
+    cursor: pointer;
+}
+.gender{
+    position: absolute;
+    top: 430px;
+    left:490px;
+ font-size: 20px;
+    color: #1D2129;
+}
+.AA{
+   direction: rtl;
+     position: absolute;
+    top: 460px;
+    left:270px;
+ font-size: 13px;
+    color: #848383;
+    
+    
+}
+.span1{
+    color: #365899;
+}
+.span1:hover{
+    cursor: pointer;
+}
+.span2{
+    color: #365899;
+}
+.span2:hover{
+    cursor: pointer;
+}
+.span3{
+    color: #365899;
+}
+.span3:hover{
+    cursor: pointer;
+}
+.OpenAc{
+     direction: rtl;
+     position: absolute;
+    top: 540px;
+    left:417px;
+    width: 175px;
+    height: 40px;
+    background-image: url('https://f.top4top.net/p_754na1ca1.png');
+}
+.OpenAc{
+    cursor: pointer;
+}
+.AAA{
+    direction: rtl;
+     position: absolute;
+    top: 600px;
+    left:318px; 
+    font-size: 15px
+}
+.bulid{
+    color:#36589A;
+    
+}
+.bulid:hover{
+  cursor: pointer;
+}
+    
